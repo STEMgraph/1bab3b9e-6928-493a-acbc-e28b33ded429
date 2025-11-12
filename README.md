@@ -1,7 +1,11 @@
 <!---
 {
   "id": "1bab3b9e-6928-493a-acbc-e28b33ded429",
-  "depends_on": ["279a01d6-7696-46b7-9cb7-2c44773ad06b", "845d15ed-1fb2-4b2c-8096-732f29e01c93"],
+  "teaches": "Safely Opening and Closing Files in C",
+  "depends_on": [
+    "279a01d6-7696-46b7-9cb7-2c44773ad06b",
+    "845d15ed-1fb2-4b2c-8096-732f29e01c93"
+  ],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
   "keywords": ["file handling", "fopen", "fclose", "error handling", "C"]
